@@ -1,0 +1,106 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url("https://th.bing.com/th/id/OIP.7r_IGGaz7zOs11BKMNzKiwHaEo?pid=ImgDet&rs=1");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+article {
+  width: 1200px;
+  border: 2px solid gray;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 50px auto;
+}
+
+.gallery {
+  width: 1024px;
+  margin: 20px auto;
+}
+.pictures {
+  display: flex;
+  /* flex-wrap: wrap; */
+  margin: 20px auto;
+}
+.items-photos {
+  width: 25%;
+}
+.title1 {
+  color: green;
+}
+.article1 {
+  position: relative;
+  background-color: palegoldenrod;
+}
+.text-one {
+  font-family: monospace;
+}
+.writer1 {
+  margin-left: 75%;
+  font-family: fantasy;
+}
+.word1 {
+  color: red;
+}
+.word2 {
+  color: blue;
+}
+.word3 {
+  color: yellow;
+}
+.word4 {
+  color: green;
+}
+.word5 {
+  color: deeppink;
+}
+.word6 {
+  color: darkviolet;
+}
+.word7 {
+  color: darkorange;
+}
+.word8 {
+  color: brown;
+}
+.word9 {
+  color: skyblue;
+}
+.word10 {
+  color: burlywood;
+}
+.word11 {
+  color: gold;
+}
+.word12 {
+  color: springgreen;
+}
+.title2 {
+  color: blue;
+}
+.article2 {
+  position: relative;
+  background-color: palegreen;
+}
+.text-two {
+  font-family: Castellar;
+}
+.writer2 {
+  margin-left: 75%;
+  font-family: fantasy;
+}
+.title3 {
+  color: red;
+}
+.article3 {
+  position: relative;
+  background-color: paleturquoise;
+}
+.text-three {
+  font-family: cursive;
+}
+.writer3 {
+  margin-left: 75%;
+  font-family: fantasy;
+}
